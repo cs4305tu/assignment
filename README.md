@@ -1,2 +1,4 @@
-# week6
-Files to do exercises and assignments At Applied machine learning course
+# Assignment file
+Files to do the assignment Applied machine learning course CS4305TU Applied Machine Learning (2021/22 Q1)
+
+
